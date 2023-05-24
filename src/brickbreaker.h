@@ -19,8 +19,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTI
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 // 
-//	CEL Grid Rendering Demo - Good entry point for familiarizing yourself with
-//	some of the 3DO graphics basics
+//	Brick breaker main game
 //
 
 */
